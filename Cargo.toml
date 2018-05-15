@@ -1,0 +1,7 @@
+[package]
+name = "capitalize"
+version = "0.1.0"
+authors = ["Chris Kuehl <ckuehl@ckuehl.me>"]
+
+[dependencies]
+clap = "2.31"
