@@ -1,0 +1,7 @@
+-   id: capitalize
+    name: Capitalize files
+    description: 'Capitalizes files'
+    entry: capitalize
+    language: rust
+    types: [text]
+    exclude: '^.pre-commit-config.yaml$'
